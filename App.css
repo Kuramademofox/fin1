@@ -1,0 +1,43 @@
+body {
+  background-color: #2b2b2b;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: #333;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  color: #ffffff;
+}
+
+pre {
+  color: #82ca9d;
+  background-color: #444;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+.chart-container {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.card p {
+  color: #82ca9d;
+}
